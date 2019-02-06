@@ -33,9 +33,17 @@ This is a web application that will allow users list and preview news articles f
     4. Run chmod a+x start.py
     5. Run ./start.py
 
+## Behavior Driven Development
+
+|Behavior|input|output|
+|--------|-----|------|
+|View the Politics section .| Click on a preferred link . |Read through your preferred news article .|
+|View the Sports section .| Click on a preferred link.| Read through your preferred news article.|
+| View the Sports section .| Click on a preferred link .|Read through your preferred news article .|
+
 ## Known bugs
 
-No known errors
+No known errors. Incase of any noticeable bugs contact [jogachi4@gmail.com](gmail.com)
 
 ## Contributors
 
