@@ -25,13 +25,13 @@ This is a web application that will allow users list and preview news articles f
     - HTML, CSS and Bootstrap
     - JavaScript
 
-<!-- ## Set-up and Installation
+## Set-up and Installation
 
     1. Clone or download the Repository
     2. Install Python 3.6
     3. Create a virtual environment
     4. Run chmod a+x start.py
-    5. Run ./start.py -->
+    5. Run ./start.py
 
 ## Known bugs
 
