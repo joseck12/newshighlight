@@ -18,9 +18,9 @@ def create_app(config_name):
     from .app2 import main as main_blueprint
     app.register_blueprint(main_blueprint)
 
-    # # Setting up the request config
-    # from .request import configure_request
-    # configure_request(app)
+    # Setting up the request config
+    from .request import configure_request
+    configure_request(app)
 
 
     return app
